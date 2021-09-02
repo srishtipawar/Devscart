@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+}
+.categories-card {
+    margin: 0 150px;
+    text-align: center;
+    display: flex;
+    justify-content:space-around;
+    width: 60vw;
+    align-items: center;
+}
+
+.categories-img {
+    width: 300px;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px auto;
+}
+.categories-img:hover {
+    transform: scale(1.1);
+}

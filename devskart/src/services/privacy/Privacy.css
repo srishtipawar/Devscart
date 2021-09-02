@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bitter', serif;
+}
+.Privacy{
+    width: 55rem;
+    height: 120rem;
+    /* border: 2px solid black; */
+    box-shadow: 2px 2px 2px 3px rgb(230, 230, 230);
+    margin: 2rem 22rem;
+    padding: 10px;
+}
+.Box_in img{
+    margin-top: 0px;
+    height: 200px;
+    width:200px;
+}
+.Box_in h1{
+    text-align: center;
+}
+
+.grey_strip{
+    width: auto;
+    background-color: #424641c4;
+    margin: 8px 10px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 8px 8px;
+    border-radius: 2px;
+}
+
+.Parah p{
+    padding: 11px 15px;
+    margin: 4px 11px;
+}
+
+.para_list{
+    margin: 4px 2.1rem;
+    padding: 1rem;
+}
+.para_list li{
+    padding: 7px;
+}

@@ -1,0 +1,10 @@
+.carousel{
+    height: 400px;
+    max-width: 100%;
+}
+.d-block{
+    height: 400px;
+    width: 1000px;
+    background-size: cover;
+    max-width:100%;
+}
